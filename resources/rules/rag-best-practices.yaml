@@ -1,0 +1,17 @@
+name: "RAG Implementation Rules"
+description: "Rules for building production RAG systems"
+
+constraints:
+  - "Always implement hybrid search (vector + BM25)"
+  - "Include re-ranking with cross-encoder"
+  - "Add comprehensive evaluation suite"
+  - "Implement semantic caching for frequent queries"
+  - "Add query classification to skip retrieval when possible"
+
+workflows:
+  - name: "add-rag-component"
+    steps:
+      - "Analyze existing codebase for integration points"
+      - "Generate implementation plan with fallback strategies"
+      - "Create evaluation test cases"
+      - "Implement with monitoring hooks"
