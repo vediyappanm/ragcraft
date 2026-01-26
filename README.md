@@ -7,14 +7,6 @@
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/vediyappanm/ragcraft/pulls)
 
-## 🎯 What Makes This Different
-
-Stop building RAG systems from scratch. This framework provides **14 battle-tested architectural patterns** used by companies like Netflix, Spotify, and Notion to serve millions of users. Each pattern includes **production-ready code**, **evaluation metrics**, and **cost optimization strategies**.
-
-### 🏆 Trusted By
-- **Startups**: 50+ companies reduced RAG development time by 80%
-- **Enterprises**: Production systems serving 1M+ users
-- **Researchers**: 20+ academic papers cite these patterns
 
 ## 🚀 Quick Start
 
